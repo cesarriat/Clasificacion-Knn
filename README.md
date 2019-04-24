@@ -1,6 +1,6 @@
 # Clasificación-Knn
 Con el método KNN se utiliza para clasificar flores en el archivo KNN
-se utliza anaconda y jupiter, tiene anotaciones en donde va explicando el por que de los comandos
+se utliza anaconda y jupyter, tiene anotaciones en donde va explicando el por que de los comandos
 
 # Comparación diferentes modelos
 se utliza una base de datos de las viviendas en boston y se usa modelos knn, resgresión y ridge 
